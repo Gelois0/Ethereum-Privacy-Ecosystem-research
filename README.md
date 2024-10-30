@@ -26,9 +26,9 @@ description: Contributions preliminary research by Lucila Pastore and Gelois
   * Y Projects per hackathon (average).
   * Z Hackers participating.
 * [ ] **Slide 6**: Hackathons – What People Are Building
-  * **Digital Identity:** 40% of projects.
-  * **Voting Systems:** 30% of projects.
-  * **Private Payments:** 20% of projects.
+  * **Digital Identity**
+  * **Voting Systems**
+  * **Private Payments**
 * [x] **Slide 7**: [Hackathons – Privacy Companies Supporting Hackathons](ethereum-privacy-ecosystem-research/hackathons-what-privacy-companies-support-hackathons-big-list.md)
   * ETH Global Hackatons
 * [ ] **Slide 8**: Compliant Privacy on Spotlight
