@@ -6,20 +6,47 @@ description: Contributions preliminary research by Lucila Pastore and Gelois
 
 ## Research
 
-* Ecosystem snapshot (map with all the projects delivering privacy)   &#x20;
-* Stats: X projects, Y hackathons, Z investments \[focus on quantifiable data]
-* How orgs activate Ethereum ecosystem (as relational layers):
-  * Build on Ethereum (using EVM chain)
-  * Focus on ETH as a currency \[swap, bridges etc]
-  * R\&D: key research directions \[what orgs are working on]
-* Privacy & Scaling spotlight: what they work on from Ecosystem perspective \[all projects on 1 slide; amount of projects]
-* [<mark style="color:yellow;">Hackathons: X hackathons, Y projects (average), Z hackers</mark>](ethereum-privacy-ecosystem-research/hackathons-x-hackathons-y-projects-average-z-hackers.md)
-* [<mark style="color:yellow;">Hackathons: what people are building (stats of use-cases like identity - highest category, voting - second etc)</mark>](ethereum-privacy-ecosystem-research/hackathons-what-people-are-building-stats-of-use-cases-like-identity-highest-category-voting.md)
-* [<mark style="color:yellow;">Hackathons: what privacy companies support hackathons (big list)</mark>](ethereum-privacy-ecosystem-research/hackathons-what-privacy-companies-support-hackathons-big-list.md)
-* Compliant privacy on a spotlight: Privacy Pools, Proof-of-Innocence, Labyrinth…
-* Finances: way of backing ecosystem (VC investments, community backing, individuals)
-* Finances: examples -> Rotki - communal investment, Fileverse - the same, Aztec - VC…
-* What to expect in 2025: key projects, specific tech development…
+## **Ethereum Privacy Ecosystem Research**
+
+* [ ] **Slide 1**: Ecosystem Snapshot
+  * Map with all privacy projects: Nym, Aztec, zkSync, etc.
+  * Use bubbles or cluster visualization for representation.
+* [ ] **Slide 2**: Stats – Quantifiable Data
+  * X Projects.
+  * Y Hackathons.
+  * Z Investments in 2024.
+* [ ] **Slide 3**: How Organizations Activate the Ethereum Ecosystem
+  * **Build on Ethereum:** Uniswap, Aave, zkSync.
+  * **ETH as a Currency:** Swaps, bridges.
+  * **R\&D:** zk-proofs, FHE, MPC.
+* [ ] **Slide 4**: Privacy & Scaling Spotlight
+  * What projects focus on: Nym (Mixnets), Aztec (ZK Layer 2), zkSync (Scalability).
+* [ ] **Slide 5**: Hackathons – Key Metrics
+  * X Hackathons held.
+  * Y Projects per hackathon (average).
+  * Z Hackers participating.
+* [ ] **Slide 6**: Hackathons – What People Are Building
+  * **Digital Identity:** 40% of projects.
+  * **Voting Systems:** 30% of projects.
+  * **Private Payments:** 20% of projects.
+* [x] **Slide 7**: [Hackathons – Privacy Companies Supporting Hackathons](ethereum-privacy-ecosystem-research/hackathons-what-privacy-companies-support-hackathons-big-list.md)
+  * Nym, Aztec, Semaphore, Polygon ID, Bandada.
+* [ ] **Slide 8**: Compliant Privacy on Spotlight
+  * **Privacy Pools:** Private transactions with compliance.
+  * **Proof-of-Innocence:** Prove innocence without sacrificing privacy.
+  * **Labyrinth:** Innovation in privacy with regulatory compliance.
+* [ ] **Slide 9**: Ecosystem Funding
+  * **VC Investments:** Relevant financial support.
+  * **Community Backing:** Rotki, Fileverse.
+  * **Individual Contributions:** Decentralized support.
+* [ ] **Slide 10**: Funding Examples
+  * **Rotki:** Community-supported project.
+  * **Fileverse:** Crowdfunded.
+  * **Aztec:** Backed by VCs.
+* [ ] **Slide 11**: What to Expect in 2025
+  * **New Technologies:** FHE, ZK-Rollups.
+  * **Key Events:** Devcon 2025, ETHGlobal Challenges.
+  * **New Grant Rounds:** Stay alert for announcements!
 
 ## Report Links
 
