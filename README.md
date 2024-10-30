@@ -21,7 +21,7 @@ description: Contributions preliminary research by Lucila Pastore and Gelois
   * **R\&D:** zk-proofs, FHE, MPC.
 * [ ] **Slide 4**: Privacy & Scaling Spotlight
   * What projects focus on: Nym (Mixnets), Aztec (ZK Layer 2), zkSync (Scalability).
-* [ ] **Slide 5**: Hackathons – Key Metrics
+* [ ] **Slide 5**: [Hackathons – Key Metrics](ethereum-privacy-ecosystem-research/hackathons-x-hackathons-y-projects-average-z-hackers.md)
   * X Hackathons held.
   * Y Projects per hackathon (average).
   * Z Hackers participating.
