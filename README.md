@@ -30,7 +30,7 @@ description: Contributions preliminary research by Lucila Pastore and Gelois
   * **Voting Systems:** 30% of projects.
   * **Private Payments:** 20% of projects.
 * [x] **Slide 7**: [Hackathons – Privacy Companies Supporting Hackathons](ethereum-privacy-ecosystem-research/hackathons-what-privacy-companies-support-hackathons-big-list.md)
-  * Nym, Aztec, Semaphore, Polygon ID, Bandada.
+  * ETH Global Hackatons
 * [ ] **Slide 8**: Compliant Privacy on Spotlight
   * **Privacy Pools:** Private transactions with compliance.
   * **Proof-of-Innocence:** Prove innocence without sacrificing privacy.
@@ -54,6 +54,7 @@ description: Contributions preliminary research by Lucila Pastore and Gelois
 * [Ethereum privacy funding](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Ethereum%20privacy%20funding.md)
 * [Hackathon projects](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md)
 * [Research and Development](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/R%26D.md)
+* [ETH Global Hackathons](https://ethglobal.com/events/hackathons)
 
 
 
