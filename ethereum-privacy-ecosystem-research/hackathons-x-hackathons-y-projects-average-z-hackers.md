@@ -1,4 +1,4 @@
-# Hackathons
+# Hackathons: X hackathons, Y projects (average), Z hackers
 
 ## &#x20;Global Hackatons
 
