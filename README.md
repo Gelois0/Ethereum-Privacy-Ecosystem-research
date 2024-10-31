@@ -20,11 +20,8 @@ description: Contributions preliminary research by Lucila Pastore and Gelois
 
 ## Lucila:
 
-*
-[ ] 
-    **Slide 1**: Privacy & Scaling Spotlight&#x20;
-
-    * What projects focus on:\[all projects on 1 slide; ammount of projects]
+* [ ] **Slide 1**: Privacy & Scaling Spotlight&#x20;
+  * What projects focus on:\[all projects on 1 slide; ammount of projects]
 * [ ] **Slide 2**: Finances: way of backing ecosystem (VC investments, community backing, individuals)
   * **VC Investments:** Relevant financial support.
   * **Community Backing:** Rotki, Fileverse.
